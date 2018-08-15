@@ -1,2 +1,2 @@
 print(Hello World!);
-print(Hello Master);
+print(Hello Master Prog);
